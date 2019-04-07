@@ -1,3 +1,3 @@
 # ATMEL-AVR
 ATMEGA 16
-ATMEGA-16 This includes various codes in embedded C like interfacing sensors, EEPROM, Communication etc.
+This includes various codes in embedded C like interfacing sensors, EEPROM, Communication etc.
